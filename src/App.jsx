@@ -61,7 +61,7 @@ function App() {
     <div className="app">
       <h1>Pokemon Memory Game</h1>
       <p className="instructions">
-        Click each card only once! Don't click the same card twice!
+        Click each card only once! Don't click the same card twice! Please reload the page to reset the game.
       </p>
 
       {/* pass scores to Scoreboard */}
