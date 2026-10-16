@@ -1,0 +1,29 @@
+.scoreboard {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.score-box {
+  background-color: #16213e;
+  border: 2px solid #e94560;
+  border-radius: 12px;
+  padding: 20px 40px;
+  min-width: 160px;
+}
+
+.score-label {
+  color: #ffffff;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.score-number {
+  color: #FF3131;
+  font-size: 36px;
+  font-weight: bold;
+  min-height: 44px;
+}
